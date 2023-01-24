@@ -1,0 +1,18 @@
+.second
+{
+    display:flex;
+    flex-direction: column;
+}
+.phead{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://img.freepik.com/free-vector/gradient-dynamic-blue-lines-background_23-2148995756.jpg?w=740&t=st=1665148350~exp=1665148950~hmac=daeba8d7862b17fd321a04a55aef4e57f091396b8bc2c704834a95de2c93484e");
+    height:10vh;
+}
+.text{
+    font-weight: bold;
+    letter-spacing:5px;
+    color:white;
+    font-size:25px;
+}
