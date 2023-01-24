@@ -1,2 +1,2 @@
 # Institute-Manager
-Complete package for Institutes
+Complete package for private institutes
